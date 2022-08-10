@@ -1,0 +1,6 @@
+.env
+artifects
+cache
+coverage.json
+node_modules
+deployments
